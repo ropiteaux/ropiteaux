@@ -1,6 +1,7 @@
 ### Hello there 👋
 
-<a href="https://www.buymeacoffee.com/tropiteaux" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" alt="Buy Me A Coffee" style="height: 20px !important;width: 70px !important;" ></a>
+For when I'll be able to share my personnal work & apps, feel free to:  
+<a href="https://www.buymeacoffee.com/tropiteaux" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" alt="Buy Me A Coffee" style="height: 2px !important;width: 7px !important;" width="140" height="40"></a>
 
 ## 🔭 What i’m currently working on
 - Flink
