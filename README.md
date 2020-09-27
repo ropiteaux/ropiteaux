@@ -1,16 +1,20 @@
-### Hi there 👋
+### Hello there 👋
 
-<!--
-**ropiteaux/ropiteaux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://www.buymeacoffee.com/tropiteaux" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" alt="Buy Me A Coffee" style="height: 20px !important;width: 70px !important;" ></a>
 
-Here are some ideas to get you started:
+## 🔭 What i’m currently working on
+- Flink
+- CLickhouse
+- Kubernetes
+- AWS
+- Scala
+- Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 I’m currently learning 
+- Go
+- Azure
+- Flask
+- ML
+
+### 📫 How to reach me: theo.ropiteaux@gmail.com
+
