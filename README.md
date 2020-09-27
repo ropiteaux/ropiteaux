@@ -10,7 +10,7 @@ For when I'll be able to share my personnal work & apps, feel free to:
 
 ## 🔭 What technologies I’m currently using
 - Flink
-- CLickhouse
+- Clickhouse
 - Kubernetes
 - AWS
 - Scala
