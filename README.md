@@ -9,15 +9,9 @@
 - Flink
 - Clickhouse
 - Kubernetes
-- AWS
+- AWS/Azure
 - Scala
-- Python
-
-## :notebook: What I’m currently learning 
 - Go
-- Azure
-- Flask
-- ML
 
 ### 📫 How to reach me: theo.ropiteaux@gmail.com
 
